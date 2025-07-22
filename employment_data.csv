@@ -1,0 +1,17 @@
+Year,Country,Employment Rate,Unemployment Rate,Sector
+2020,India,52.5,7.1,IT
+2021,India,54.2,6.8,IT
+2022,India,55.7,6.1,IT
+2023,India,57.3,5.9,IT
+2020,USA,60.2,5.5,Healthcare
+2021,USA,61.5,5.2,Finance
+2022,USA,63.1,4.8,Education
+2023,USA,64.0,4.5,IT
+2020,UK,58.1,6.0,Manufacturing
+2021,UK,59.6,5.7,IT
+2022,UK,60.9,5.3,Finance
+2023,UK,61.4,5.0,Healthcare
+2020,Germany,61.3,4.9,Finance
+2021,Germany,62.0,4.6,Healthcare
+2022,Germany,63.4,4.3,Education
+2023,Germany,64.2,4.0,Manufacturing
